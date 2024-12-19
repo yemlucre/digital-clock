@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_O_CLOCK_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_O_CLOCK" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="269800001fs"></ZoomEndTime>
+      <Cursor1Time time="7319000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="218"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="31" />
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/sec" type="array">
+      <obj_property name="ElementShortName">sec[3:0]</obj_property>
+      <obj_property name="ObjectShortName">sec[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/sec10" type="array">
+      <obj_property name="ElementShortName">sec10[3:0]</obj_property>
+      <obj_property name="ObjectShortName">sec10[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/cos" type="logic">
+      <obj_property name="ElementShortName">cos</obj_property>
+      <obj_property name="ObjectShortName">cos</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/min" type="array">
+      <obj_property name="ElementShortName">min[3:0]</obj_property>
+      <obj_property name="ObjectShortName">min[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/min10" type="array">
+      <obj_property name="ElementShortName">min10[3:0]</obj_property>
+      <obj_property name="ObjectShortName">min10[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/com" type="logic">
+      <obj_property name="ElementShortName">com</obj_property>
+      <obj_property name="ObjectShortName">com</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/hour" type="array">
+      <obj_property name="ElementShortName">hour[7:0]</obj_property>
+      <obj_property name="ObjectShortName">hour[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/hour10" type="array">
+      <obj_property name="ElementShortName">hour10[7:0]</obj_property>
+      <obj_property name="ObjectShortName">hour10[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/coh" type="logic">
+      <obj_property name="ElementShortName">coh</obj_property>
+      <obj_property name="ObjectShortName">coh</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/AP" type="array">
+      <obj_property name="ElementShortName">AP[7:0]</obj_property>
+      <obj_property name="ObjectShortName">AP[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/cod" type="logic">
+      <obj_property name="ElementShortName">cod</obj_property>
+      <obj_property name="ObjectShortName">cod</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/day" type="array">
+      <obj_property name="ElementShortName">day[7:0]</obj_property>
+      <obj_property name="ObjectShortName">day[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/tday" type="array">
+      <obj_property name="ElementShortName">tday[7:0]</obj_property>
+      <obj_property name="ObjectShortName">tday[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/tAP" type="array">
+      <obj_property name="ElementShortName">tAP[7:0]</obj_property>
+      <obj_property name="ObjectShortName">tAP[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/thour10" type="array">
+      <obj_property name="ElementShortName">thour10[7:0]</obj_property>
+      <obj_property name="ObjectShortName">thour10[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/thour" type="array">
+      <obj_property name="ElementShortName">thour[7:0]</obj_property>
+      <obj_property name="ObjectShortName">thour[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/tmin10" type="array">
+      <obj_property name="ElementShortName">tmin10[3:0]</obj_property>
+      <obj_property name="ObjectShortName">tmin10[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/tmin" type="array">
+      <obj_property name="ElementShortName">tmin[3:0]</obj_property>
+      <obj_property name="ObjectShortName">tmin[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/day" type="array">
+      <obj_property name="ElementShortName">day[7:0]</obj_property>
+      <obj_property name="ObjectShortName">day[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/AP" type="array">
+      <obj_property name="ElementShortName">AP[7:0]</obj_property>
+      <obj_property name="ObjectShortName">AP[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/APO" type="logic">
+      <obj_property name="ElementShortName">APO</obj_property>
+      <obj_property name="ObjectShortName">APO</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/dayO" type="array">
+      <obj_property name="ElementShortName">dayO[3:0]</obj_property>
+      <obj_property name="ObjectShortName">dayO[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/h10" type="array">
+      <obj_property name="ElementShortName">h10[3:0]</obj_property>
+      <obj_property name="ObjectShortName">h10[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/h" type="array">
+      <obj_property name="ElementShortName">h[3:0]</obj_property>
+      <obj_property name="ObjectShortName">h[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/sec_inst/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/sec_inst/co" type="logic">
+      <obj_property name="ElementShortName">co</obj_property>
+      <obj_property name="ObjectShortName">co</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/sec_inst/unit" type="array">
+      <obj_property name="ElementShortName">unit[3:0]</obj_property>
+      <obj_property name="ObjectShortName">unit[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/sec_inst/tens" type="array">
+      <obj_property name="ElementShortName">tens[3:0]</obj_property>
+      <obj_property name="ObjectShortName">tens[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/sec_inst/u" type="array">
+      <obj_property name="ElementShortName">u[3:0]</obj_property>
+      <obj_property name="ObjectShortName">u[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_O_CLOCK/O_CLOCK_inst/sec_inst/t" type="array">
+      <obj_property name="ElementShortName">t[3:0]</obj_property>
+      <obj_property name="ObjectShortName">t[3:0]</obj_property>
+   </wvobject>
+</wave_config>

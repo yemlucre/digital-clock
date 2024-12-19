@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Dec  7 16:15:02 2024
+# Process ID: 12660
+# Current directory: D:/DX2201_lucre/O_CLOCK 1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7720 D:\DX2201_lucre\O_CLOCK 1\O_CLOCK.xpr
+# Log file: D:/DX2201_lucre/O_CLOCK 1/vivado.log
+# Journal file: D:/DX2201_lucre/O_CLOCK 1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.xpr}
+
+update_compile_order -fileset sources_1
+close [ open {D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.srcs/sources_1/new/count60.vhd} w ]
+add_files {{D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.srcs/sources_1/new/count60.vhd}}
+update_compile_order -fileset sources_1
+close [ open {D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.srcs/sources_1/new/count12.vhd} w ]
+add_files {{D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.srcs/sources_1/new/count12.vhd}}
+update_compile_order -fileset sources_1
+close [ open {D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.srcs/sources_1/new/count7.vhd} w ]
+add_files {{D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.srcs/sources_1/new/count7.vhd}}
+update_compile_order -fileset sources_1
+close [ open {D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.srcs/sources_1/new/M_A.vhd} w ]
+add_files {{D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.srcs/sources_1/new/M_A.vhd}}
+update_compile_order -fileset sources_1
+close [ open {D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.srcs/sources_1/new/BCD_LED.vhd} w ]
+add_files {{D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.srcs/sources_1/new/BCD_LED.vhd}}
+update_compile_order -fileset sources_1

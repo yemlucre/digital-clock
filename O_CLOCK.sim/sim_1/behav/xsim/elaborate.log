@@ -1,0 +1,23 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: E:/Xilink/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 01df3b66dca24ad4b67c26cdd3d533ff --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_O_CLOCK_behav xil_defaultlib.tb_O_CLOCK -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.count60 [count60_default]
+Compiling architecture behavioral of entity xil_defaultlib.count12 [count12_default]
+Compiling architecture behavioral of entity xil_defaultlib.BCD_LED [bcd_led_default]
+Compiling architecture behavioral of entity xil_defaultlib.M_A [m_a_default]
+Compiling architecture behavioral of entity xil_defaultlib.AP_SEG [ap_seg_default]
+Compiling architecture behavioral of entity xil_defaultlib.count7 [count7_default]
+Compiling architecture behavioral of entity xil_defaultlib.O_CLOCK [o_clock_default]
+Compiling architecture behavioral of entity xil_defaultlib.tb_o_clock
+Built simulation snapshot tb_O_CLOCK_behav

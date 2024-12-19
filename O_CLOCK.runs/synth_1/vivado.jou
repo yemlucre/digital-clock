@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Dec  5 16:31:12 2024
+# Process ID: 16388
+# Current directory: D:/DX2201_lucre/O_CLOCK/O_CLOCK.runs/synth_1
+# Command line: vivado.exe -log O_CLOCK.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source O_CLOCK.tcl
+# Log file: D:/DX2201_lucre/O_CLOCK/O_CLOCK.runs/synth_1/O_CLOCK.vds
+# Journal file: D:/DX2201_lucre/O_CLOCK/O_CLOCK.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source O_CLOCK.tcl -notrace

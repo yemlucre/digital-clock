@@ -1,0 +1,34 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Dec  5 16:31:12 2024
+# Process ID: 16388
+# Current directory: D:/DX2201_lucre/O_CLOCK/O_CLOCK.runs/synth_1
+# Command line: vivado.exe -log O_CLOCK.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source O_CLOCK.tcl
+# Log file: D:/DX2201_lucre/O_CLOCK/O_CLOCK.runs/synth_1/O_CLOCK.vds
+# Journal file: D:/DX2201_lucre/O_CLOCK/O_CLOCK.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source O_CLOCK.tcl -notrace
+Command: synth_design -top O_CLOCK -part xc7a75tfgg484-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a75t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a75t'
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 19808
+---------------------------------------------------------------------------------
+Starting Synthesize : Time (s): cpu = 00:00:00 ; elapsed = 00:00:03 . Memory (MB): peak = 1110.301 ; gain = 0.000
+---------------------------------------------------------------------------------
+ERROR: [Synth 8-944] 0 definitions of operator "+" match here [D:/DX2201_lucre/O_CLOCK/O_CLOCK.srcs/sources_1/new/O_CLOCK.vhd:30]
+ERROR: [Synth 8-944] 0 definitions of operator "+" match here [D:/DX2201_lucre/O_CLOCK/O_CLOCK.srcs/sources_1/new/O_CLOCK.vhd:32]
+INFO: [Synth 8-2810] unit behavioral ignored due to previous errors [D:/DX2201_lucre/O_CLOCK/O_CLOCK.srcs/sources_1/new/O_CLOCK.vhd:18]
+---------------------------------------------------------------------------------
+Finished Synthesize : Time (s): cpu = 00:00:01 ; elapsed = 00:00:04 . Memory (MB): peak = 1110.301 ; gain = 0.000
+---------------------------------------------------------------------------------
+synthesize failed
+INFO: [Common 17-83] Releasing license: Synthesis
+6 Infos, 0 Warnings, 0 Critical Warnings and 3 Errors encountered.
+synth_design failed
+ERROR: [Common 17-69] Command failed: Vivado Synthesis failed
+INFO: [Common 17-206] Exiting Vivado at Thu Dec  5 16:31:22 2024...

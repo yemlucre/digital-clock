@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Dec  8 13:39:27 2024
+# Process ID: 13916
+# Current directory: D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.sim/sim_1/behav/xsim/xsim.dir/tb_O_CLOCK_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/DX2201_lucre/O_CLOCK 1/O_CLOCK.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/DX2201_lucre/O_CLOCK -notrace
+couldn't read file "D:/DX2201_lucre/O_CLOCK": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Sun Dec  8 13:39:27 2024...
